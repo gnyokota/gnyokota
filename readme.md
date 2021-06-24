@@ -1,5 +1,5 @@
 <p align="center">
-<img src="home.png" width="80%">
+<img src="https://github.com/gnyokota/gnyokota/blob/3254c317ee8796e58ef5a9c83cd4af78687c7ad7/home.png" width="80%">
 </p>
 
 I am a Full-Stack developer passionate about learning new technologies. I also have a master degree in Chemical Engineering 🧪, however my real passions are to code and create awesome applications!
@@ -21,7 +21,7 @@ Here are a few things I've been learning and practicing along my learning journe
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![React](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
