@@ -8,7 +8,7 @@ I am a Full-Stack developer passionate about learning new technologies. I also h
 
 ## 👩🏻‍💻 Technology Stack
 
-Here are a few things I've been learning and practicing along my learning journey.
+Here are a few things I've been learning and practicing along my journey.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
