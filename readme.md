@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/gnyokota/gnyokota/blob/3254c317ee8796e58ef5a9c83cd4af78687c7ad7/home.png" width="80%">
-</p>
-
 I am a Full-Stack developer passionate about learning new technologies. I also have a master degree in Chemical Engineering 🧪, however my real passions are to code and create awesome applications!
 
 #### I’m currently looking for new opportunities!
