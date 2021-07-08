@@ -34,3 +34,9 @@ or contact me via e-mail 📧
 ### and please don't forget to check my [portfolio](https://gy-portfolio.netlify.app/) <a href='https://gy-portfolio.netlify.app/'><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="40px">
 
 </a>
+
+</br>
+</br>
+</br>
+
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnyokota&show_icons=true&theme=dracula" ></div>
