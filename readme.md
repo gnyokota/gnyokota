@@ -39,4 +39,9 @@ or contact me via e-mail 📧
 </br>
 </br>
 
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnyokota&show_icons=true&theme=dracula" ></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+"></div>
+
+</br>
+
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnyokota&show_icons=true&hide=issues" ></div>
