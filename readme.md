@@ -1,6 +1,8 @@
-I am a Full-Stack developer passionate about learning new technologies. I also have a master degree in Chemical Engineering 🧪, however my real passions are to code and create awesome applications!
+<p align="center">
+<img height="300" width="auto" src="https://media.giphy.com/media/3bzQ35TGdDY9GDv6CJ/giphy.gif" alt="hello gif from giphy"/>
+</p>
 
-#### I’m currently looking for new opportunities!
+I am a Full-Stack developer passionate about learning new technologies. I also have a master degree in Chemical Engineering 🧪, however my real passions are to code and create awesome applications!
 
 ## 👩🏻‍💻 Technology Stack
 
