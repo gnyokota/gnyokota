@@ -36,7 +36,7 @@ or contact me via e-mail 📧
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnyokota@gmail.com)
 
-### and please don't forget to check my [portfolio](https://gy-portfolio.netlify.app/) <a href='https://gy-portfolio.netlify.app/'><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="40px">
+### and please don't forget to check my [portfolio](https://gy-portfolio.netlify.app/) <a href='https://gy-portfolio.netlify.app/'><img width="40px" height="auto" src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" >
 
 </a>
 
