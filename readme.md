@@ -28,6 +28,10 @@ Here are a few things I've been learning and practicing along my journey.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+## 🔝 Used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's chat 🗣
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyokota)
