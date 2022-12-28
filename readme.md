@@ -30,7 +30,7 @@ Here are a few things I've been learning and practicing along my journey.
 
 ## 🔝 Used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's chat 🗣
 
