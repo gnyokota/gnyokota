@@ -28,9 +28,9 @@ Here are a few things I've been learning and practicing along my journey.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🔝 Used languages
+<!-- ## 🔝 Used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnyokota)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Let's chat 🗣
 
